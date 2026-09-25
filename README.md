@@ -16,13 +16,13 @@
 
 ### About Me
 
-I'm a Computer Vision & ML/AI Engineer building production systems across **deep learning, LLM/agentic pipelines, and medical imaging** — with a research thread in **quantum machine learning**.
+I'm a Computer Vision & ML/AI Engineer building production systems across **deep learning, LLM/agentic pipelines, and medical imaging** with a research thread in **quantum machine learning**.
 
 ```yaml
 role: "AI/ML Engineer"
 focus: ["Computer Vision", "LLM & Agentic Systems", "Medical Imaging"]
 currently_building: "LLM-driven healthcare recommendation system"
-education: "M.S. Quantum ML — University of Canberra"
+education: "M.S. Quantum ML University of Canberra"
 based_in: "Sydney, Australia 🇦🇺"
 ```
 
@@ -76,8 +76,8 @@ Master's research applying specialised quantum kernels to image classification t
 <tr>
 <td width="50%">
 
-**🏥 MChart — Agentic Healthcare Recommender**
-LLM-driven system to identify gaps in mental-health services and generate stakeholder recommendations. Covers data processing, retrieval, workflow design, evaluation, and recommendation generation — built on **Azure AI Foundry**, with data pulled via **Microsoft Graph API** (SharePoint/Outlook/Teams).
+**🏥 Agentic Healthcare Recommender**
+LLM-driven system to identify gaps in mental-health services and generate stakeholder recommendations. Covers data processing, retrieval, workflow design, evaluation, and recommendation generation built on **Azure AI Foundry**, with data pulled via **Microsoft Graph API** (SharePoint/Outlook/Teams).
 
 </td>
 <td width="50%">
